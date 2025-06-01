@@ -71,6 +71,10 @@ python ip_reputation_gui.py
    - 表格区域显示详细数据
    - 支持多种排序和筛选方式
 
+![1](https://github.com/user-attachments/assets/a8869adb-bd2a-497c-9d10-caf169c1fc99)
+![2](https://github.com/user-attachments/assets/65705fe1-ab6c-43a7-a8b3-b9322774e20b)
+![3](https://github.com/user-attachments/assets/d36c73b7-4ce3-442a-bd7d-4f1e6e04f196)
+
 ## 注意事项
 
 - API密钥请妥善保管
